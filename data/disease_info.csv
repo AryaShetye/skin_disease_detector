@@ -1,0 +1,11 @@
+Disease,Common Symptoms,Severity Level,Recommended Treatment,ICD-10 Code
+Eczema,"Dry skin, itching, red patches, inflammation, scaling, crusting, redness, cracked skin, swelling",Moderate,"Topical corticosteroids, moisturizers, antihistamines",L20.9
+"Warts, Molluscum, and other Viral Infections","Raised bumps, rough texture, small flesh-colored growths, sometimes itchy or painful, small bumps, brown growths, itching",Mild,"Cryotherapy, salicylic acid, topical antivirals",B07.9
+Melanoma,"New or changing mole, asymmetry, irregular borders, varied colors, bleeding, itching",Severe,"Surgical excision, immunotherapy, targeted therapy",C43.9
+Atopic Dermatitis,"Intense itching, dry scaly skin, red inflamed patches, especially in folds of skin, itching, rashes, swelling, crusting",Moderate,"Topical steroids, emollients, immunomodulators",L20.0
+Basal Cell Carcinoma (BCC),"Pearly or waxy bump, flat flesh-colored lesion, bleeding sore that doesn't heal, scaly area",Severe,"Mohs surgery, radiation therapy, topical chemo",C44.91
+Melanocytic Nevi (NV),"Small and dark brown spots, flat or raised moles, typically uniform in shape and color, ",Mild,"Observation, excision if suspicious or for cosmetic reasons",D22.9
+Benign Keratosis-like Lesions (BKL),"Waxy or wart-like growth, brown/tan/black, scaly surface, can be flat or slightly raised",Mild,"Cryotherapy, curettage, laser removal",L82.1
+"Psoriasis, Lichen Planus, and related diseases","Thick red patches with silvery scales, purple flat-topped bumps, severe itching, cracked skin",Moderate to Severe,"Topical corticosteroids, phototherapy, biologics",L40.9
+Seborrheic Keratoses and other Benign Tumors,"Brown/black growths, waxy/stuck-on appearance, generally painless, ",Mild,"Cryosurgery, curettage, no treatment if asymptomatic",L82.0
+"Tinea, Ringworm, Candidiasis, and other Fungal Infections","Red circular rashes, itching, peeling skin, white patches in mouth or moist areas, scaling, cracking skin",Moderate,"Topical antifungals, oral antifungals in severe cases",B35.9

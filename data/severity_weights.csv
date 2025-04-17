@@ -1,0 +1,11 @@
+Disease,pain_level,itching_level,duration_days,area_factor,fever_present,bleeding,spread_rate_factor
+Eczema,0.15,0.25,0.1,0.2,0.05,0.1,0.15
+"Warts, Molluscum, and other Viral Infections",0.2,0.1,0.1,0.25,0.05,0.1,0.2
+Melanoma,0.1,0.05,0.1,0.2,0.2,0.15,0.2
+Atopic Dermatitis,0.1,0.3,0.1,0.15,0.05,0.1,0.2
+Basal Cell Carcinoma (BCC),0.15,0.1,0.15,0.2,0.1,0.15,0.15
+Melanocytic Nevi (NV),0.05,0.05,0.1,0.3,0.05,0.1,0.35
+Benign Keratosis-like Lesions (BKL),0.05,0.1,0.1,0.25,0.05,0.15,0.3
+"Psoriasis, Lichen Planus, and related diseases",0.1,0.25,0.1,0.2,0.05,0.1,0.2
+Seborrheic Keratoses and other Benign Tumors,0.05,0.1,0.1,0.25,0.05,0.1,0.35
+"Tinea, Ringworm, Candidiasis, and other Fungal Infections",0.1,0.25,0.1,0.2,0.05,0.05,0.25
